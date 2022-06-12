@@ -1,0 +1,2 @@
+db-url: postgres://micro-finance-service:micro-finance-service@localhost:5432/micro-finance-service
+redis-url:
